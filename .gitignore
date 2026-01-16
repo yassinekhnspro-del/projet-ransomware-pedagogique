@@ -1,0 +1,29 @@
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers de test
+test_ransomware/
+test_chiffrement.txt
+/tmp/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
